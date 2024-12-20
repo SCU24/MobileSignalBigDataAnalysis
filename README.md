@@ -1,5 +1,3 @@
-# MobileSignalBigDataAnalysis
-
 # Mobile Signal Big Data Analysis and Prediction
 
 This project utilizes big data from mobile networks to analyze and predict signal and speed metrics based on user activity and network type. Using Google BigQuery and PySpark, the analysis focuses on exploring and modeling network performance trends for 2015.
